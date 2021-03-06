@@ -204,7 +204,7 @@ the links in an existing object, the `changeTree` function is available.
 
 ## Data conversion
 
-Sometimes custom solutions are need for analyzing the data. `mia` contains a 
+Sometimes custom solutions are needed for analyzing the data. `mia` contains a 
 few functions to help in these situations.
 
 ### Tidy data
